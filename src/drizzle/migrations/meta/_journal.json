@@ -5,43 +5,15 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1724678981051,
-      "tag": "0000_low_stranger",
+      "when": 1724703035155,
+      "tag": "0000_giant_edwin_jarvis",
       "breakpoints": true
     },
     {
       "idx": 1,
       "version": "7",
-      "when": 1724679711569,
-      "tag": "0001_red_vampiro",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1724681031486,
-      "tag": "0002_gifted_jack_murdock",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "7",
-      "when": 1724681537155,
-      "tag": "0003_friendly_shen",
-      "breakpoints": true
-    },
-    {
-      "idx": 4,
-      "version": "7",
-      "when": 1724682285224,
-      "tag": "0004_luxuriant_moira_mactaggert",
-      "breakpoints": true
-    },
-    {
-      "idx": 5,
-      "version": "7",
-      "when": 1724684830724,
-      "tag": "0005_quiet_toro",
+      "when": 1724712884659,
+      "tag": "0001_equal_microchip",
       "breakpoints": true
     }
   ]
